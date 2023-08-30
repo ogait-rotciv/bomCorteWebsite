@@ -1,0 +1,4 @@
+<p class="stelf">
+	Esqueceu sua senha? </br> 
+	<a id="link" href="recSenha.php">Clique Aqui</a> 
+</p>
